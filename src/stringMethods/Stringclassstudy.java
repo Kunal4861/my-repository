@@ -4,7 +4,7 @@ public class Stringclassstudy {
 
 	public static void main(String[] args) {
 		String name= "Avnish";   //constant pool area
-		String K   = "Avnish";
+		String K   = "Avnish";//
 		String name1=new String ("Avnish");// non constant pool area
 		String name2= new String ("Avnish");
 		String name3= new String ("AvnisH");
